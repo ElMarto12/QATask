@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UZqWcA5MOiHzhsTq8JPe3u4Gj1NozAefz+6mOthQBewD+fpLg3edDpLnkltqBgWls5KhBNRUYplI1Rtc8dIftA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m10da\\Desktop\\QATask\\QATask\\QATask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m10da\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\m10da\\.nuget\\packages\\selenium.support\\4.23.0\\selenium.support.4.23.0.nupkg.sha512",
+    "C:\\Users\\m10da\\.nuget\\packages\\selenium.webdriver\\4.23.0\\selenium.webdriver.4.23.0.nupkg.sha512",
+    "C:\\Users\\m10da\\.nuget\\packages\\selenium.webdriver.chromedriver\\128.0.6613.8400\\selenium.webdriver.chromedriver.128.0.6613.8400.nupkg.sha512"
+  ],
+  "logs": []
+}
